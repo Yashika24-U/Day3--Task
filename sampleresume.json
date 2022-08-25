@@ -1,0 +1,41 @@
+{
+    "name":"Yashika.U",
+    "email":"yashikayeshi@gmail.com",
+    "degree":"Bacheolar of ComputerScience Engineeering",
+    "education" : [
+        {
+        "schoolings":"Vetri vikaas girls higher secondary school",
+        "area" :"Namakkal",
+        "college":"Priyadarshini Engineering College",
+        "stream":"ComputerScience and Engineering"
+        }
+    ],
+    "skills":[
+        {
+        "programmming languages":"C,C++,python,Javascript",
+        "Others":"MySQL,DSA in C++, Frontend designer"
+        }],
+    "projects":[
+        {
+            "project1" : "An  automated ecommerce negotiation app",
+            "project2": "Social distancing Cap",
+            "project3": "Blackjack Game"
+        }
+    ],
+
+    "awards": "won 3rd privce AR and VR hackathon",
+
+    "languages known" :"English ,Telugu,Tamil,Hindi",
+    "interests" : [
+    {
+    "Sports":"Chess,Badminton,carrom",
+    "hobbies":"baking,listening music,readingbooks,dancing",
+    "strenghts":"Optimistic person,passionate towards my work",
+    "weekness":"Fearing of sayong NO"
+    }],
+    "Profiles" :[
+        {
+            "LinkedIn":"YashikaUvaraj",
+            "github":"https://github.com/Yashika24-U"
+        }]
+}
